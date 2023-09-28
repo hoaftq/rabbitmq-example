@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/aws.xml
+/gradle.xml
+/uiDesigner.xml
+/modules.xml
+*.iml
+/jarRepositories.xml
